@@ -1,0 +1,159 @@
+*
+{
+    background-color:#f5f4f4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1
+{
+    border: 1px solid #fff;
+    background-color: rgb(101, 78, 204);
+    color: #f1f1f1;
+    width: 200px;
+    height: 100px;
+    margin-left: 100px;
+    padding-top: 80px ;
+    text-align: center;
+}
+h2
+{
+    color: rgb(101, 78, 204);;
+    margin-left: 135px;
+    text-align: center;
+    font-size: 35px;
+}
+h3
+{
+    border-bottom: 1px solid  rgb(25, 0, 255) ;
+    margin-top: -180px;
+    margin-left: 150px;
+    padding-bottom: 15px;
+    width: 900px;
+    height: 30px;
+    font-size: 25px;
+    
+}
+h4
+{
+    border-bottom: 1px solid  rgb(25, 0, 255) ;
+    margin-left: 150px;
+    padding-bottom: 15px;
+    width: 900px;
+    height: 30px;
+    font-size: 25px;
+    
+}
+h5
+{
+    border-bottom: 1px solid  rgb(25, 0, 255) ;
+    margin-left: 150px;
+    padding-bottom: 15px;
+    width: 900px;
+    height: 30px;
+    font-size: 25px;
+    
+}
+h6
+{
+    border-bottom: 1px solid  rgb(25, 0, 255) ;
+    margin-left: 150px;
+    padding-bottom: 15px;
+    width: 900px;
+    height: 30px;
+    font-size: 25px;
+    
+}
+ #sec1
+{
+    margin-left: 175px;
+    font-family: 'century gothic';
+    color: rgb(145, 144, 151);
+}
+#sec2
+{
+    margin-left: 650px;
+    margin-top: -143px;
+    font-family: 'century gothic';
+    color: rgb(145, 144, 151);
+}
+#paragraph{
+    border: 1px solid rgb(234, 233, 238);
+    border-radius: 5px 10px;
+    padding: 10px 20px 50px;
+    margin: 50px 100px;
+    text-align: justify;
+    color: rgb(145, 144, 151);
+}
+img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-left: 1070px;
+    margin-top: 10px;
+    
+}
+
+#sec3
+{
+    margin-left: 175px;
+    font-family: 'century gothic';
+    color: rgb(145, 144, 151);
+}
+#sec4
+{
+    margin-left: 650px;
+    margin-top: -35px;
+    font-family: 'century gothic';
+    color: rgb(145, 144, 151);
+}
+#sec5
+{
+    margin-left: 175px;
+    font-family: 'century gothic';
+    color: rgb(145, 144, 151);
+}
+#sec6
+{
+    margin-left: 650px;
+    margin-top: -60px;
+    font-family: 'century gothic';
+    color: rgb(145, 144, 151);
+}
+a
+{
+    text-decoration: none;
+    color: rgb(25, 0, 255);
+}
+#pc
+{
+    margin-left: 175px;
+    color: rgb(145, 144, 151);
+}
+#cont
+{
+    border-bottom: 1px solid rgb(101, 78, 204);
+    width: 1000px;
+    height: 50px;
+    color: rgb(101, 78, 204);
+    margin-left: 135px;
+    text-align: center;
+    font-size: 35px;
+}
+
+#contsec1
+{
+    margin-left: 450px;
+    font-family: 'century gothic';
+    color: rgb(145, 144, 151);
+}
+#contsec2
+{
+    margin-left: 750px;
+    margin-top: -143px;
+    font-family: 'century gothic';
+    color: rgb(145, 144, 151);
+}
+#retour
+{
+    margin: 95px 520px;
+}
